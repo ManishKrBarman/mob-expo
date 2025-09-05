@@ -56,7 +56,7 @@ This repository follows a **progressive mastery approach**:
 ### For Complete Beginners
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/react-native-learning.git
+git clone https://github.com/ManishKrBarman/mob-expo.git
 cd react-native-learning
 
 # 2. Start with fundamentals

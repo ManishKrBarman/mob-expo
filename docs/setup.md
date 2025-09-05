@@ -41,7 +41,7 @@ expo --version
 
 ### 3. Clone and Setup Repository
 ```bash
-git clone https://github.com/your-username/react-native-learning.git
+git clone https://github.com/ManishKrBarman/mob-expo.git
 cd react-native-learning
 
 # Setup playground environment

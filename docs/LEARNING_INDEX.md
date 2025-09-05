@@ -72,7 +72,7 @@ Each concept directory contains:
 ### For Beginners (Start Here!)
 ```bash
 # 1. Clone and setup
-git clone https://github.com/your-username/react-native-learning.git
+git clone https://github.com/ManishKrBarman/mob-expo.git
 cd react-native-learning
 
 # 2. Read the foundation
