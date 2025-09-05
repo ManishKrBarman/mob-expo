@@ -1,0 +1,26 @@
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Personal drafts
+draft-*.tsx
+test-*.tsx
+experiment-*.tsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Cache
+.cache/
+
+# Logs
+*.log

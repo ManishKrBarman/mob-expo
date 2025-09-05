@@ -1,0 +1,82 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# React Native
+ios/build/
+android/build/
+android/app/build/
+*.hbc
+*.bundle
+*.map
+
+# Metro
+.metro-health-check*
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build artifacts
+build/
+coverage/
+*.tsbuildinfo
+
+# Package manager
+.npm/
+.yarn/
+.pnpm/
+
+# Personal notes (keep your private notes out of git)
+01.md
+notes-private/
+draft/
+
+# OS generated files
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Testing
+__tests__/coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+.pnpm-debug.log*
